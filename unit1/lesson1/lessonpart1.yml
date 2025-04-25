@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
 id: lessonpart1
 title: Lesson 1
-content: >-
+content: >
   # Lesson 1: Introduction to HTML
 
 
@@ -42,16 +42,16 @@ content: >-
   ### Explanation:
 
 
-  - `<!DOCTYPE html>`: Declares the document type and version of HTML.
+  * `<!DOCTYPE html>`: Declares the document type and version of HTML.
 
-  - `<html>`: The root element of an HTML page.
+  * `<html>`: The root element of an HTML page.
 
-  - `<head>`: Contains meta-information about the document, such as the title.
+  * `<head>`: Contains meta-information about the document, such as the title.
 
-  - `<title>`: Sets the title of the webpage, displayed in the browser's title
+  * `<title>`: Sets the title of the webpage, displayed in the browser's title
   bar.
 
-  - `<body>`: Contains the content of the webpage, such as text, images, and
+  * `<body>`: Contains the content of the webpage, such as text, images, and
   links.
 
 
@@ -61,16 +61,19 @@ content: >-
   Here are some commonly used HTML tags:
 
 
-  - `<h1> to <h6>`: Headings, with `<h1>` being the largest and `<h6>` the
+  * `<h1> to <h6>`: Headings, with `<h1>` being the largest and `<h6>` the
   smallest.
 
-  - `<p>`: Paragraphs.
+  * `<p>`: Paragraphs.
 
-  - `<a>`: Anchors, used to create hyperlinks.
+  * `<a>`: Anchors, used to create hyperlinks.
 
-  - `<img>`: Images.
+  * `<img>`: Images.
 
-  - `<ul>`, `<ol>`, `<li>`: Unordered and ordered lists, and list items.
+  * `<ul>`, `<ol>`, `<li>`: Unordered and ordered lists, and list items.
+
+
+  > This is a quote "Testing, testing, 123"
 
 
   ## Example: Creating a Simple Webpage
